@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with Shortly link web app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with react-js with tailwind css
 
 ## Available Scripts
+
+
+In the project directory, you can run:
+
+### `npm install`
+
+to install all dependencies then
 
 In the project directory, you can run:
 
