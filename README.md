@@ -4,12 +4,18 @@ This project was bootstrapped with react-js with tailwind css
 
 ## Available Scripts
 
+In the project directory, you can run:
+
+### `npm config set legacy-peer-deps true`
+
+to allow you to install packages then
+
 
 In the project directory, you can run:
 
 ### `npm install`
 
-to install all dependencies then
+to install all dependencies then and run ### `npm config set legacy -peer-deps true` allow you to install packages
 
 In the project directory, you can run:
 

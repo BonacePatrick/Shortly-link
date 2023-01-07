@@ -1,4 +1,4 @@
-
+import React from 'react'
 import {
   Switch,
   Route,
@@ -8,6 +8,7 @@ import Home from "./components/Home/Home";
 function App() {
   return (
     <>
+    
     
     <Switch>
           <Route exact path="/">

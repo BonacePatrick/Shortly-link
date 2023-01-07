@@ -17,7 +17,7 @@ const Hero = () => {
                 </p>
                 <div className="mx-auto lg:mx-0">
                     <Link className='py-5 px-10 text-2xl font-bold text-white bg-cyan rounded-full
-                     lg:py-4 hover:opacity-70'>Get Started</Link>
+                     lg:py-4 hover:opacity-70 animate-pulse'>Get Started</Link>
                 </div>
 
             </div>

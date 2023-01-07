@@ -16,7 +16,7 @@ code {
     monospace;
 }
 #cta {
-  background-image: url('../public/assets/bg-boost-desktop.svg');
+  background-image: url('../src/components/bg-img/bg-boost-desktop.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
