@@ -21,6 +21,10 @@ module.exports = {
       spacing: {
         180: '32rem',
       },
+      animation: {
+        'bounce-slow': 'bounce 1s infinite',
+      },
+    
     },
   },
   plugins: [

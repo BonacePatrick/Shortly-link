@@ -23,8 +23,8 @@ const Hero = () => {
             </div>
 
             {/* --image-- */}
-            <div className="mb-24 mx-auto md:w-180 lg:mb-0 lg:w-1/2">
-                <img src="./assets/illustration-working.svg" alt="hero-img" />
+            <div className="mb-24 mx-auto md:w-180 lg:mb-0 lg:w-1/2 ">
+                <img src="./assets/illustration-working.svg" alt="hero-img" className='animate-bounce-slow' />
             </div>
         </div>
 
