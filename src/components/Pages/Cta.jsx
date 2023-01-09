@@ -9,7 +9,7 @@ const Cta = () => {
             font-bold text-center text-white">
                 Boost your Link to day!
             </h5>
-            <button className="px-10 py-4 mx-auto text-2xl font-bold
+            <button className="px-10 py-4 mx-auto text-2xl animate-pulse font-bold
              text-white rounded-full bg-veryDarkBlue hover:bg-darkViolet
               md:text-base md:py-3 focus:outline-none ">
                 Get Started
